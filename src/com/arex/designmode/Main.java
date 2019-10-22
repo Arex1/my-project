@@ -1,4 +1,4 @@
-package com.arex;
+package com.arex.designmode;
 
 /**
  * @author arex
